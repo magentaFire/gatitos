@@ -1,0 +1,19 @@
+.container0 {
+  display: flex;
+  width: 100%;
+  margin: auto;
+  justify-content: center;
+}
+
+@media (min-width: 1024px) {
+  .container1 {
+    content: url("../img/Landscape.jpg");
+    width: 70%;
+    height: 70%;
+
+  }
+  .container2 {
+    content: url("../img/kitten-medium.png");
+
+  }
+}
